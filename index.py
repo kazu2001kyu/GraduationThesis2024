@@ -61,6 +61,7 @@ ax.set_xlabel("x")
 ax.set_ylabel("y")
 ax.set_zlabel("Value")
 
+# サイズを規定
 size = 5
 for j in range(0,1):
     x = []
